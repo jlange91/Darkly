@@ -12,7 +12,7 @@ dans cette route on retrouve un fichier htpasswd qui contient l'utilisateur :
 ```
 root:8621ffdbc5698829397d97767ac13db3
 ```
-Encore a l'aide de notre fantastique pote google il s'avère que \
+Encore à l'aide de notre fantastique moteur de recherche il s'avère que \
 8621ffdbc5698829397d97767ac13db3 est crypté en md5.
 ```
 8621ffdbc5698829397d97767ac13db3 -> dragon

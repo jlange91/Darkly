@@ -1,6 +1,6 @@
 <?php
 $array = array();
-$ip = "10.12.1.122";
+$ip = "10.11.200.198";
 
 function searchReadMe($link) {
 
@@ -22,7 +22,7 @@ function searchReadMe($link) {
         $array[$c] = $c;
       }
     } else {
-      getReadMe($ru . $url);
+      searchReadMe($link . $url);
     }
   }
 }
