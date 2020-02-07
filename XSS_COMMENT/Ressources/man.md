@@ -1,4 +1,4 @@
-# SQL INJECTION
+# XSS COMMENT
 
 ## Flag
 ```

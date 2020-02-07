@@ -1,4 +1,4 @@
-# PATH_TRAVERSAL
+# PATH TRAVERSAL
 
 ## Flag
 ```

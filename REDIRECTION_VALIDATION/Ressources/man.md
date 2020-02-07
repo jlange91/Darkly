@@ -1,4 +1,4 @@
-# HIDDEN_FILES
+# REDIRECTION VALIDATION
 
 ## Flag
 ```
